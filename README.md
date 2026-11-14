@@ -74,6 +74,10 @@ Redis in [Rust](https://github.com/veryshyjelly-learns/redis-rust) and [Clojure]
 
 [Regime-aware trading](https://github.com/veryshyjelly-learns/regime-aware-trading) · [Pairs-trading filters](https://github.com/veryshyjelly-learns/pairs_trading_filter) · [SSD pairs trading](https://github.com/veryshyjelly-learns/ssd_pair_trading)
 
+#### Messaging experiments
+
+[Setu and its adapters](https://github.com/veryshyjelly-learns#messaging-experiments) — an archived shared-bot group bridge with a different architecture from Bifrost.
+
 #### Practice
 
 [Competitive programming](https://github.com/veryshyjelly/cp_x) · [Exercism](https://github.com/veryshyjelly-learns/exercism-codes)
