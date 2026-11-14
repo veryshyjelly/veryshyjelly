@@ -70,6 +70,10 @@ Redis in [Rust](https://github.com/veryshyjelly-learns/redis-rust) and [Clojure]
 
 [Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust) · [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv_emulator) · [TCP in Rust](https://github.com/veryshyjelly-learns/thunder)
 
+#### Quantitative finance
+
+[Regime-aware trading](https://github.com/veryshyjelly-learns/regime-aware-trading) · [Pairs-trading filters](https://github.com/veryshyjelly-learns/pairs_trading_filter) · [SSD pairs trading](https://github.com/veryshyjelly-learns/ssd_pair_trading)
+
 #### Practice
 
 [Competitive programming](https://github.com/veryshyjelly/cp_x) · [Exercism](https://github.com/veryshyjelly-learns/exercism-codes)
