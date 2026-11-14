@@ -5,6 +5,7 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/veryshyjelly/">LinkedIn</a> &nbsp; / &nbsp;
   <a href="https://www.boot.dev/u/veryshyjelly">Boot.dev</a> &nbsp; / &nbsp;
+  <a href="https://github.com/veryshyjelly-learns">Jelly’s Workshop</a> &nbsp; / &nbsp;
   <a href="https://github.com/veryshyjelly?tab=repositories">All repositories</a>
 </p>
 
