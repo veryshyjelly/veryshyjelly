@@ -71,6 +71,10 @@ Redis in [Rust](https://github.com/veryshyjelly-learns/redis-rust) and [Clojure]
 
 [Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust) · [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv_emulator) · [TCP in Rust](https://github.com/veryshyjelly-learns/thunder)
 
+#### Japanese learning
+
+[Kanji Shitsumon](https://github.com/veryshyjelly-learns/kanji-shitsumon) · [Kanji slideshows](https://github.com/veryshyjelly-learns/kanji-slideshow) · [Vocabulary slideshows](https://github.com/veryshyjelly-learns/vocab-slideshow) · [JLPT Inquire](https://github.com/veryshyjelly-learns/jlpt-inquire) · [Auto Duolingo](https://github.com/veryshyjelly-learns/auto-duolingo) · [Japanese resources](https://github.com/veryshyjelly-learns/awesome-japanese)
+
 #### College work
 
 **Coursework:** [Optimization techniques](https://github.com/veryshyjelly-learns/ot-lab) · [Numerical methods](https://github.com/veryshyjelly-learns/numerical-methods-lab) · [Mathematical modelling](https://github.com/veryshyjelly-learns/math-modelling) · [Argon molecular dynamics](https://github.com/veryshyjelly-learns/argon-md)
