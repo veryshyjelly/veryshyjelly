@@ -49,27 +49,29 @@ Mostly **Go and Rust**. Often somewhere between a terminal, an interpreter, and 
 
 ### Under the hood
 
-I also build the things I want to understand: a [Redis server](https://github.com/veryshyjelly/redis-rust), a [shell](https://github.com/veryshyjelly/shell-rust), a [Lox interpreter](https://github.com/veryshyjelly/lox-interpreter-rust), and [HTTP from raw TCP](https://github.com/veryshyjelly/httpfromtcp).
+I also build the things I want to understand: a [Redis server](https://github.com/veryshyjelly-learns/redis-rust), a [shell](https://github.com/veryshyjelly-learns/shell-rust), a [Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust), and [HTTP from raw TCP](https://github.com/veryshyjelly-learns/httpfromtcp).
 
 <details>
 <summary><b>Open the learning shelf</b> — Boot.dev, CodeCrafters &amp; computer systems</summary>
 
+Collected in [veryshyjelly-learns](https://github.com/veryshyjelly-learns).
+
 #### Boot.dev
 
-[BookBot](https://github.com/veryshyjelly/bookbot) · [Asteroids](https://github.com/veryshyjelly/asteroids-pygame) · [AI agent](https://github.com/veryshyjelly/ai-agent-boots) · [Web scraper](https://github.com/veryshyjelly/webscraper-python-boots) · [HTTP from TCP](https://github.com/veryshyjelly/httpfromtcp) · [Git exercises](https://github.com/veryshyjelly/megacorp)
+[BookBot](https://github.com/veryshyjelly-learns/bookbot) · [Asteroids](https://github.com/veryshyjelly-learns/asteroids-pygame) · [AI agent](https://github.com/veryshyjelly-learns/ai-agent-boots) · [Web scraper](https://github.com/veryshyjelly-learns/webscraper-python-boots) · [HTTP from TCP](https://github.com/veryshyjelly-learns/httpfromtcp) · [Git exercises](https://github.com/veryshyjelly-learns/megacorp)
 
 #### CodeCrafters
 
-[Redis in Rust](https://github.com/veryshyjelly/redis-rust) · Shells in [Rust](https://github.com/veryshyjelly/shell-rust), [Go](https://github.com/veryshyjelly/shell-go), and [Gleam](https://github.com/veryshyjelly/shell-gleam)
+[Redis in Rust](https://github.com/veryshyjelly-learns/redis-rust) · Shells in [Rust](https://github.com/veryshyjelly-learns/shell-rust), [Go](https://github.com/veryshyjelly-learns/shell-go), and [Gleam](https://github.com/veryshyjelly-learns/shell-gleam)
 
 #### Computer systems & languages
 
-[Hack assembler](https://github.com/veryshyjelly/hack_assembler) → [VM translator](https://github.com/veryshyjelly/vm_translator) → [Jack compiler](https://github.com/veryshyjelly/jack_compiler)
+[Hack assembler](https://github.com/veryshyjelly-learns/hack_assembler) → [VM translator](https://github.com/veryshyjelly-learns/vm_translator) → [Jack compiler](https://github.com/veryshyjelly-learns/jack_compiler)
 
-[Lox interpreter](https://github.com/veryshyjelly/lox-interpreter-rust) · [RISC-V emulator](https://github.com/veryshyjelly/riscv_emulator) · [TCP in Rust](https://github.com/veryshyjelly/thunder)
+[Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust) · [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv_emulator) · [TCP in Rust](https://github.com/veryshyjelly-learns/thunder)
 
 #### Practice
 
-[Competitive programming](https://github.com/veryshyjelly/cp_x) · [Exercism](https://github.com/veryshyjelly/exercism-codes)
+[Competitive programming](https://github.com/veryshyjelly/cp_x) · [Exercism](https://github.com/veryshyjelly-learns/exercism-codes)
 
 </details>
