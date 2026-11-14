@@ -8,7 +8,7 @@
   <a href="https://github.com/veryshyjelly?tab=repositories">All repositories</a>
 </p>
 
-I'm Ayush. I like programming languages, systems, and making the software around my hobbies work the way I want. That has led to a competitive programming companion, a WhatsApp–Telegram bridge, and vocabulary practice on a Kobo.
+I'm Ayush. I like programming languages, systems, and making the software around my hobbies work the way I want. That has led to a competitive programming companion, a WhatsApp–Telegram bridge, and tools for vocabulary and Morse practice.
 
 Mostly **Go and Rust**. Often somewhere between a terminal, an interpreter, and a new way to practice.
 
@@ -45,7 +45,7 @@ Mostly **Go and Rust**. Often somewhere between a terminal, an interpreter, and 
 </tr>
 </table>
 
-**Two more detours:** [vocabulary practice on an e-reader](https://github.com/veryshyjelly/vocabtrainer-rs) and [running coding challenges locally](https://github.com/veryshyjelly/craftcoders-cli).
+**Also on the workbench:** [CraftCoders CLI](https://github.com/veryshyjelly/craftcoders-cli), for running coding challenges locally.
 
 ### Under the hood
 
