@@ -81,6 +81,6 @@ Redis in [Rust](https://github.com/veryshyjelly-learns/redis-rust) and [Clojure]
 
 #### Practice
 
-[Competitive programming](https://github.com/veryshyjelly/cp_x) · [Exercism](https://github.com/veryshyjelly-learns/exercism-codes)
+[Competitive programming](https://github.com/veryshyjelly/cp_x) · [Exercism](https://github.com/veryshyjelly-learns/exercism-codes) · [roadmap.sh task tracker](https://github.com/veryshyjelly-learns/task-tracker-rust)
 
 </details>
