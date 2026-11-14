@@ -62,7 +62,7 @@ Collected in [veryshyjelly-learns](https://github.com/veryshyjelly-learns).
 
 #### CodeCrafters
 
-[Redis in Rust](https://github.com/veryshyjelly-learns/redis-rust) · Shells in [Rust](https://github.com/veryshyjelly-learns/shell-rust), [Go](https://github.com/veryshyjelly-learns/shell-go), and [Gleam](https://github.com/veryshyjelly-learns/shell-gleam)
+Redis in [Rust](https://github.com/veryshyjelly-learns/redis-rust) and [Clojure](https://github.com/veryshyjelly-learns/redis-clojure) · Shells in [Rust](https://github.com/veryshyjelly-learns/shell-rust), [Go](https://github.com/veryshyjelly-learns/shell-go), and [Gleam](https://github.com/veryshyjelly-learns/shell-gleam)
 
 #### Computer systems & languages
 
