@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" fill="none">
+  <title>Ayush Biswas — veryshyjelly</title>
+  <desc>A small jellyfish with circuit-like tentacles beside Ayush's name. Systems, languages, and the tools in between.</desc>
+  <defs>
+    <pattern id="grid" width="32" height="32" patternUnits="userSpaceOnUse"><circle cx="1" cy="1" r="1" fill="#334452"/></pattern>
+    <linearGradient id="bell" x1="920" y1="84" x2="1050" y2="200" gradientUnits="userSpaceOnUse"><stop stop-color="#223E49"/><stop offset="1" stop-color="#172733"/></linearGradient>
+  </defs>
+  <rect width="1200" height="320" rx="16" fill="#101B25"/>
+  <rect x="720" width="480" height="320" fill="url(#grid)"/>
+  <path d="M56 65H88" stroke="#88D4BE" stroke-width="3"/>
+  <text x="102" y="71" fill="#88D4BE" font-family="monospace" font-size="18" letter-spacing="2">veryshyjelly</text>
+  <text x="54" y="156" fill="#F2EEE5" font-family="Helvetica,Arial,sans-serif" font-size="64" font-weight="700" letter-spacing="-2">Ayush Biswas</text>
+  <text x="57" y="204" fill="#BCC9CE" font-family="Helvetica,Arial,sans-serif" font-size="24">Systems, languages &amp; the tools in between.</text>
+  <text x="57" y="269" fill="#92A7B3" font-family="monospace" font-size="17">IIT KHARAGPUR '26</text>
+  <circle cx="266" cy="263" r="3" fill="#C7A17B"/>
+  <text x="286" y="269" fill="#92A7B3" font-family="monospace" font-size="17">GO / RUST / CURIOSITY</text>
+  <circle cx="976" cy="160" r="124" stroke="#2A3D49"/>
+  <circle cx="976" cy="160" r="103" stroke="#2A3D49" stroke-dasharray="2 9"/>
+  <g stroke-linecap="round" stroke-linejoin="round">
+    <path d="M924 172V202Q924 216 910 216H893Q879 216 879 230V243" stroke="#88D4BE" stroke-width="3"/>
+    <path d="M950 178V225Q950 239 936 239V267" stroke="#C7A17B" stroke-width="3"/>
+    <path d="M976 180V207Q976 222 990 222Q1004 222 1004 237V259" stroke="#88D4BE" stroke-width="3"/>
+    <path d="M1002 178V198Q1002 209 1016 209H1030Q1044 209 1044 223V240" stroke="#C7A17B" stroke-width="3"/>
+    <path d="M1028 172V188Q1028 196 1042 196H1061Q1075 196 1075 210V222" stroke="#88D4BE" stroke-width="3"/>
+    <path d="M897 162C897 112 929 78 976 78C1023 78 1055 112 1055 162C1055 178 1038 185 1021 175C1006 186 990 185 976 177C962 185 946 186 931 175C914 185 897 178 897 162Z" fill="url(#bell)" stroke="#88D4BE" stroke-width="3"/>
+    <path d="M916 126C925 106 941 96 956 94" stroke="#88D4BE" stroke-opacity=".45" stroke-width="3"/>
+    <path d="M953 139L961 145L953 151" stroke="#F2EEE5" stroke-width="3"/>
+    <path d="M982 152H996" stroke="#F2EEE5" stroke-width="3"/>
+    <circle cx="879" cy="248" r="5" fill="#101B25" stroke="#88D4BE" stroke-width="2"/>
+    <circle cx="936" cy="272" r="5" fill="#C7A17B"/>
+    <circle cx="1004" cy="264" r="5" fill="#101B25" stroke="#88D4BE" stroke-width="2"/>
+    <circle cx="1044" cy="245" r="5" fill="#C7A17B"/>
+    <circle cx="1075" cy="227" r="5" fill="#101B25" stroke="#88D4BE" stroke-width="2"/>
+  </g>
+  <path d="M1110 68H1124M1117 61V75" stroke="#C7A17B" stroke-width="2"/>
+  <circle cx="850" cy="114" r="3" fill="#88D4BE"/>
+</svg>
