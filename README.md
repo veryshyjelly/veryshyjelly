@@ -50,7 +50,7 @@ Mostly **Go and Rust**. Often somewhere between a terminal, an interpreter, and 
 
 ### Under the hood
 
-I also build the things I want to understand: a [Redis server](https://github.com/veryshyjelly-learns/redis-rust), a [shell](https://github.com/veryshyjelly-learns/shell-rust), a [Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust), and [HTTP from raw TCP](https://github.com/veryshyjelly-learns/httpfromtcp).
+I also build the things I want to understand: a [Redis server](https://github.com/veryshyjelly-learns/redis-rust), a [shell](https://github.com/veryshyjelly-learns/shell-rust), a [Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust), and [HTTP from raw TCP](https://github.com/veryshyjelly-learns/http-from-tcp).
 
 <details>
 <summary><b>Open the learning shelf</b> — Boot.dev, CodeCrafters &amp; computer systems</summary>
@@ -59,7 +59,7 @@ Collected in [veryshyjelly-learns](https://github.com/veryshyjelly-learns).
 
 #### Boot.dev
 
-[BookBot](https://github.com/veryshyjelly-learns/bookbot) · [Asteroids](https://github.com/veryshyjelly-learns/asteroids-pygame) · [AI agent](https://github.com/veryshyjelly-learns/ai-agent-boots) · [Web scraper](https://github.com/veryshyjelly-learns/webscraper-python-boots) · [HTTP from TCP](https://github.com/veryshyjelly-learns/httpfromtcp) · [Git exercises](https://github.com/veryshyjelly-learns/megacorp)
+[BookBot](https://github.com/veryshyjelly-learns/bookbot) · [Asteroids](https://github.com/veryshyjelly-learns/asteroids-pygame) · [AI agent](https://github.com/veryshyjelly-learns/ai-agent-boots) · [Web scraper](https://github.com/veryshyjelly-learns/webscraper-python-boots) · [HTTP from TCP](https://github.com/veryshyjelly-learns/http-from-tcp) · [Git exercises](https://github.com/veryshyjelly-learns/megacorp)
 
 #### CodeCrafters
 
@@ -67,9 +67,9 @@ Redis in [Rust](https://github.com/veryshyjelly-learns/redis-rust) and [Clojure]
 
 #### Computer systems & languages
 
-[Hack assembler](https://github.com/veryshyjelly-learns/hack_assembler) → [VM translator](https://github.com/veryshyjelly-learns/vm_translator) → [Jack compiler](https://github.com/veryshyjelly-learns/jack_compiler)
+[Hack assembler](https://github.com/veryshyjelly-learns/hack-assembler) → [VM translator](https://github.com/veryshyjelly-learns/vm-translator) → [Jack compiler](https://github.com/veryshyjelly-learns/jack-compiler)
 
-[Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust) · [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv_emulator) · [TCP in Rust](https://github.com/veryshyjelly-learns/thunder)
+[Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust) · [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv-emulator) · [TCP in Rust](https://github.com/veryshyjelly-learns/thunder)
 
 #### Japanese learning
 
