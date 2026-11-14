@@ -71,9 +71,11 @@ Redis in [Rust](https://github.com/veryshyjelly-learns/redis-rust) and [Clojure]
 
 [Lox interpreter](https://github.com/veryshyjelly-learns/lox-interpreter-rust) · [RISC-V emulator](https://github.com/veryshyjelly-learns/riscv_emulator) · [TCP in Rust](https://github.com/veryshyjelly-learns/thunder)
 
-#### Quantitative finance
+#### College work
 
-[Regime-aware trading](https://github.com/veryshyjelly-learns/regime-aware-trading) · [Pairs-trading filters](https://github.com/veryshyjelly-learns/pairs_trading_filter) · [SSD pairs trading](https://github.com/veryshyjelly-learns/ssd_pair_trading)
+**Coursework:** [Optimization techniques](https://github.com/veryshyjelly-learns/ot-lab) · [Numerical methods](https://github.com/veryshyjelly-learns/numerical-methods-lab) · [Mathematical modelling](https://github.com/veryshyjelly-learns/math-modelling) · [Argon molecular dynamics](https://github.com/veryshyjelly-learns/argon-md)
+
+**Trading research:** [Regime-aware trading](https://github.com/veryshyjelly-learns/regime-aware-trading) · [Pairs-trading filters](https://github.com/veryshyjelly-learns/pairs-trading-filter) · [SSD pairs trading](https://github.com/veryshyjelly-learns/ssd-pair-trading)
 
 #### Messaging experiments
 
