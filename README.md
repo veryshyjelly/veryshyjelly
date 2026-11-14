@@ -79,6 +79,8 @@ Redis in [Rust](https://github.com/veryshyjelly-learns/redis-rust) and [Clojure]
 
 **Coursework:** [Optimization techniques](https://github.com/veryshyjelly-learns/ot-lab) · [Numerical methods](https://github.com/veryshyjelly-learns/numerical-methods-lab) · [Mathematical modelling](https://github.com/veryshyjelly-learns/math-modelling) · [Argon molecular dynamics](https://github.com/veryshyjelly-learns/argon-md)
 
+**Campus projects:** [IIT Kharagpur eateries website](https://github.com/veryshyjelly-learns/development-task)
+
 **Trading research:** [Regime-aware trading](https://github.com/veryshyjelly-learns/regime-aware-trading) · [Pairs-trading filters](https://github.com/veryshyjelly-learns/pairs-trading-filter) · [SSD pairs trading](https://github.com/veryshyjelly-learns/ssd-pair-trading) · [Group trading](https://github.com/veryshyjelly-learns/group-trading)
 
 #### Messaging experiments
